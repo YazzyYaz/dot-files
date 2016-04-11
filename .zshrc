@@ -102,4 +102,7 @@ export HISTFILESIZE=$HISTSIZE;
 export HISTCONTROL=ignoredups;
 export HISTIGNORE="ls:cd:cd -:pwd:exit:date:* --help";
 
+source ~/.git-prompt.sh
+source ~/.git-completion.zsh
+
 command archey
