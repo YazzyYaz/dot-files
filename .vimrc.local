@@ -1,5 +1,6 @@
-set background=dark
 colorscheme base16-railscasts
+
+set background=dark         " Assume a dark background
 
 highlight clear SignColumn
 highlight VertSplit    ctermbg=236
